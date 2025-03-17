@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhto2811&theme=dark&background=45%2C000000%2C290BC2)](https://git.io/streak-stats)
+
 <!--
 **minhto2811/minhto2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
