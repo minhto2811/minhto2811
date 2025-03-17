@@ -15,11 +15,13 @@
 
 ### 📌 Featured Projects
 
-🔹 [**Flutter Ads Plugin**](https://github.com/minhto2811/flutter_ads_plugin) – Simplifying ad integration in Flutter apps.
+🔹 [**Flutter Ads Plugin**](https://pub.dev/packages/flutter_ads_plugin) – Simplifying ad integration in Flutter apps.
 
-🔹 [**Fire Auth Quick**](https://github.com/minhto2811/fire_auth_quick) – A quick and easy authentication solution with Firebase.
+🔹 [**Fire Auth Quick**](https://pub.dev/packages/fire_auth_quick) – A quick and easy authentication solution with Firebase.
 
-🔹 [**IAP Quick**](https://github.com/minhto2811/iap_quick) – Simplifies In-App Purchase implementation.
+🔹 [**IAP Quick**](https://pub.dev/packages/iap_quick) – Simplifies In-App Purchase implementation.
+
+🔹 [**Infobip SMS**](https://pub.dev/packages/infobip_sms) – Infobip SMS Plugin is a Flutter plugin that helps you integrate Infobip's SMS service for quick and efficient phone number verification.
 
 ---
 
