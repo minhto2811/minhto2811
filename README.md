@@ -13,6 +13,13 @@
 
 ---
 
+### 💼 Experience
+
+🔹 **Flutter Developer** - Wondapro Company *(May 2024 - Present)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📌 Developing and maintaining the company's applications.
+
+---
+
 ### 📌 Featured Projects
 
 🔹 [**Flutter Ads Plugin**](https://pub.dev/packages/flutter_ads_plugin) – Simplifying ad integration in Flutter apps.
