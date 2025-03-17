@@ -27,9 +27,9 @@
 
 ### 📊 GitHub Stats
 
-![Minh Tô's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhto2811&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhto2811&theme=dark&border_radius=7&mode=weekly&background=45%2C00A0FF%2C423DEB)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhto2811&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhto2811&layout=compact&theme=ambient_gradient)
 
 ---
 
